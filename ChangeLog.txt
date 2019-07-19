@@ -1,0 +1,50 @@
+v2.4.3
+------
+-Added Sales SV profile
+
+v2.4.2
+------
+-Fixed validation bugs on forms
+
+v0.4.0 (Session update)
+------
+-Reworked routing
+-Added login screen, joblist
+-Added 10 'sessions' (able to create 10 jobs)
+-Added 'uploadStatus' icons to categoryList categories
+-Added network detection for offline->online uploadAllPhotos functionality
+-Added colors to jobList to determine whether a job has all photos uploaded or not
+
+
+0.3.0
+------
+-Added 'Upload All' button on categoryList page
+-Replaced generic Camera icon on categories w/ functional uploadStatus icons
+-Added category colors based on supercategories
+-CategoryList page remembers window position now
+-Fixed bug where thumbnails would appear in the wrong category
+
+v0.2.0
+------
+-Added ServiceWorker functionality
+-Fixed thumbnail bug (modal would remain until image uploaded.  Modal disappears immediately after click now)
+
+v0.1.2
+------
+-Revised categorylistFile_pcsv
+
+v0.1.1
+------
+-Removed '-a' from install categories
+-Changed Form labels from 'User Name' to 'User Initials'
+-Added validation on User Initials: Cannot be longer than 3 character
+-Changed Form labels from 'Project Name' to 'Project Name (try to use one word, all use same)'
+
+-Renamed profile 'Solar' to 'Install'
+-Added profile 'PCSV'
+-Added PCSV categories
+
+v0.1.0
+------
+Beginning of version style
+Alpha for users
