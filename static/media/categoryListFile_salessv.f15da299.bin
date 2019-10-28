@@ -14,3 +14,8 @@
 3Exterior-PermittingFlag|Shot(s) showing any possible permitting concerns (pools, decks, etc.)
 3Exterior-TrenchLocation|Shot(s) showing any possible trenching locations
 4CompBid-CompQuote|Shot(s) of competitor quote(s)
+5Batt-HeatSysFar|Shot(s) of home heating system
+5Batt-HeatSysSpecs|Close up shot of any visible heat system specifications
+5Batt-HeatSysRoom|Wide angle shot(s) of heating system room / enclosure
+5Batt-InstallLocation|Shot(s) of potential battery installation location(s)
+5Batt-SiteAuditReq|Photo of signed Site Audit Request form
