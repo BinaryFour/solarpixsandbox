@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "876a80894ea359f5a8f1374f5d8a4640",
+    "revision": "4eaec0f9eb4a5403db0e5fff2dc92140",
     "url": "/solarpixsandbox/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solarpixsandbox/static/js/2.c1b5e815.chunk.js"
   },
   {
-    "revision": "9ca41951f8dae27845bd",
-    "url": "/solarpixsandbox/static/js/main.1f1b20f6.chunk.js"
+    "revision": "bcc033da5602bcac1f5d",
+    "url": "/solarpixsandbox/static/js/main.87347261.chunk.js"
   },
   {
     "revision": "d6108bea07734f2518c9",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solarpixsandbox/static/media/categoryListFile_pcsv.1ad94596.bin"
   },
   {
-    "revision": "f15da29961ca85776eb5fe5c3272624d",
-    "url": "/solarpixsandbox/static/media/categoryListFile_salessv.f15da299.bin"
+    "revision": "7af64a19a6ba83e0f3cea72b8022388d",
+    "url": "/solarpixsandbox/static/media/categoryListFile_salessv.7af64a19.bin"
   }
 ]);
