@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bae41afd6caf0c02289b729566a05279",
+    "revision": "82d7ce5037d533f702f5908ab8b9a594",
     "url": "/solarpixsandbox/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solarpixsandbox/static/js/2.c1b5e815.chunk.js"
   },
   {
-    "revision": "f2d5c1d1247b8a76f7f0",
-    "url": "/solarpixsandbox/static/js/main.6e508db5.chunk.js"
+    "revision": "50fff8e6cba38b6212d8",
+    "url": "/solarpixsandbox/static/js/main.7b2589f3.chunk.js"
   },
   {
     "revision": "d6108bea07734f2518c9",
